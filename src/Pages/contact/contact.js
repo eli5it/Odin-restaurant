@@ -1,0 +1,5 @@
+function loadContact() {
+}
+
+
+export{loadContact}
